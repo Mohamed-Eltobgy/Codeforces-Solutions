@@ -1,2 +1,2 @@
 # Codeforces-Solutions
-collection of problems on codeforces website
+Collection of problems on codeforces website
